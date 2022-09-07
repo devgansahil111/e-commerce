@@ -1,0 +1,4 @@
+export enum UserAddress {
+  SHIPPING_ADDRESS = 'SHIPPING_ADDRESS',
+  BILLING_ADDRESS = 'BILLING_ADDRESS',
+}
